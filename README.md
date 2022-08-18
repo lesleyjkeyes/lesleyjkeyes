@@ -2,6 +2,7 @@
 ### By day, I'm a trade compliance analyst and by night, I'm a student in Nashville Software School's part-time web development program. I'm learning JS, React, Python and Django right now and look forward to continuing to learn! 
 
 ## Connect With Me
+<a href = 'https://www.linkedin.com/in/lesley-keyes'> <img width='20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
 
 <!--
