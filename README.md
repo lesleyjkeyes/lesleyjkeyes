@@ -4,12 +4,10 @@ By day, I'm a trade compliance analyst and by night, I'm a student in Nashville 
 ## Current Work & Interests
 - 🔭 I’m currently working on mastering React
 - 😄 Pronouns: she/her
-- 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lesleyjkeyes&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
+
 ## Connect With Me
 <a href = 'https://www.linkedin.com/in/lesley-keyes'> <img width='20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-
-## My GitHub Stats
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lesleyjkeyes&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
 
 <!--
 **lesleyjkeyes/lesleyjkeyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
