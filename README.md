@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Lesley Keyes 👋
+# By day, I'm a trade compliance analyst and by night, I'm a student in Nashville Software School's part-time web development program. I'm learning JS, React, Python and Django right now and look forward to continuing to learn! 
+
+## Connect With Me
+
 
 <!--
 **lesleyjkeyes/lesleyjkeyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
